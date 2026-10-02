@@ -1,0 +1,13 @@
+services:
+  pyspark:
+    build: .
+    container_name: pyspark-iot-lab
+    working_dir: /app
+    volumes:
+      - ./:/app
+    ports:
+      - "4040:4040"
+      - "8501:8501"
+    stdin_open: true
+    tty: true
+    command: bash
