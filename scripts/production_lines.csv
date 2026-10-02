@@ -1,0 +1,11 @@
+line_id,line_name,workshop,product_family,nominal_capacity
+L001,Production line 1,A,P3,135
+L002,Production line 2,C,P4,113
+L003,Production line 3,B,P3,81
+L004,Production line 4,B,P4,207
+L005,Production line 5,B,P3,182
+L006,Production line 6,C,P4,159
+L007,Production line 7,A,P3,118
+L008,Production line 8,C,P1,189
+L009,Production line 9,A,P4,142
+L010,Production line 10,A,P2,125
