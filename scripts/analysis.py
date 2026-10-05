@@ -376,7 +376,7 @@ equipment_kpi = (
     )
 )
 equipment_kpi.write.mode("overwrite").parquet(
-    "/app/output/equipment_kpi"
+    "/output/equipment_kpi"
 )
 
 # Задание 13.7
